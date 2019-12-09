@@ -1,0 +1,1 @@
+select max (output) from thrusters;
