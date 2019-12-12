@@ -24,3 +24,5 @@ Day 9 was decevingly simple. had to do a lot of debugging for the 203 and 204 an
 Day 10 was horrible, I managed to get a solution for part 1 that was off by 1 number because I was not counting the prime number 7. that solution did not work for part 2. I had to revisit trigonometry and implement the ATAN2 formula, in the end I was also off by 1 number, the correct answer was in my position 199. It is frustrating when the solution passes the tests and it fails the final input. I'm learning a lot about debugging.
 
 Day 11 my Intcode machine is becoming very slow, the first code I wrote was OK but spent some hours trying to see what was wrong because the shape it was creating didnt seem like it was on purpouse. after seeing some solutions in the subreddit it turned out it was expected behaviour. I got part 2 for free during part one by not resetting the HULL table between tries and the robot started on a white position.
+
+Day 12 was tempting working with strings but i would have had to find "," to separate them on each go. I did try not to write anything to the DB in this exercise.
